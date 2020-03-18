@@ -1,0 +1,1 @@
+Arquivo novo para testar os comandos git add, git commit e git push
